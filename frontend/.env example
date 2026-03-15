@@ -1,0 +1,6 @@
+# ===========================
+# Frontend Environment Variables
+# ===========================
+
+# Supabase Key atau API key frontend lainnya
+VITE_SUPABASE_KEY=YOUR_SUPABASE_KEY_HERE
