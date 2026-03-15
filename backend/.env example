@@ -1,0 +1,13 @@
+# ===========================
+# Backend Environment Variables
+# ===========================
+
+# API key Gemini (jika ada integrasi AI / services)
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
+
+# API key Mayar (payment gateway)
+MAYAR_API_KEY=YOUR_MAYAR_API_KEY_HERE
+MAYAR_BASE_URL=https://api.mayar.id
+
+# URL frontend (untuk callback / redirect setelah pembayaran)
+FRONTEND_URL=http://localhost:5173
